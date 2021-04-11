@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.item{
+  border: 1px solid black;
+  width: 300px;
+  margin: 4%;
+}
+
+.cart
+{
+  margin-left:300px;
+}
